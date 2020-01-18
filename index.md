@@ -1,10 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="utf-8">
-<title>
-John's Mailbox
-</title>
   </head>
 <body>
 <h1> John's Mailbox </h1>
